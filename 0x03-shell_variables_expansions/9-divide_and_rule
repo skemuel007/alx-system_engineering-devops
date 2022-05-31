@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$((`echo $POWER` / `echo $DIVIDE`))\n"
+echo "$((`echo $POWER` / `echo $DIVIDE`))"
